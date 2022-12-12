@@ -1,0 +1,23 @@
+{
+  "name": "clonenetflix",
+  "version": "1.0.0",
+  "description": "Clone Responsivo da Netflix <br> Recriando a interface da Netflix com CSS, HTML, Javascript e Node.Js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renatoglima/clonenetflix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renatoglima/clonenetflix/issues"
+  },
+  "homepage": "https://github.com/Renatoglima/clonenetflix#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
